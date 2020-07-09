@@ -1,0 +1,13 @@
+C:\Users\Nata\source\repos\FormUI\FormUI\bin\Debug\FormUI.exe.config
+C:\Users\Nata\source\repos\FormUI\FormUI\bin\Debug\FormUI.exe
+C:\Users\Nata\source\repos\FormUI\FormUI\bin\Debug\FormUI.pdb
+C:\Users\Nata\source\repos\FormUI\FormUI\bin\Debug\Dapper.dll
+C:\Users\Nata\source\repos\FormUI\FormUI\bin\Debug\Dapper.xml
+C:\Users\Nata\source\repos\FormUI\FormUI\obj\Debug\FormUI.csprojAssemblyReference.cache
+C:\Users\Nata\source\repos\FormUI\FormUI\obj\Debug\FormUI.Dashboard.resources
+C:\Users\Nata\source\repos\FormUI\FormUI\obj\Debug\FormUI.Properties.Resources.resources
+C:\Users\Nata\source\repos\FormUI\FormUI\obj\Debug\FormUI.csproj.GenerateResource.cache
+C:\Users\Nata\source\repos\FormUI\FormUI\obj\Debug\FormUI.csproj.CoreCompileInputs.cache
+C:\Users\Nata\source\repos\FormUI\FormUI\obj\Debug\FormUI.csproj.CopyComplete
+C:\Users\Nata\source\repos\FormUI\FormUI\obj\Debug\FormUI.exe
+C:\Users\Nata\source\repos\FormUI\FormUI\obj\Debug\FormUI.pdb
